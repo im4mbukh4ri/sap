@@ -1,0 +1,14 @@
+/vendor
+/node_modules
+/public/storage
+/public/images
+Homestead.yaml
+Homestead.json
+.env
+.idea/
+.dropbox
+.phpintel/
+.ftpconfig
+config/sip-config.php
+config/session.php
+/tests/json

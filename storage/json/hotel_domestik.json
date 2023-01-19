@@ -1,0 +1,773 @@
+[{
+  "code": "WSASIDABA",
+  "city": "Ambarawa",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDAMQ",
+  "city": "Ambon",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDAYR",
+  "city": "Anyer",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBMU",
+  "city": "BIMA",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDDPS",
+  "city": "Bali",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBPN",
+  "city": "Balikpapan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBTJ",
+  "city": "Banda Aceh",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTKG",
+  "city": "Bandar Lampung",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBDO",
+  "city": "Bandung",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBKA",
+  "city": "Bangka",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBJU",
+  "city": "Banjarbaru",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBDJ",
+  "city": "Banjarmasin",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBJA",
+  "city": "Banjarnegara",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBTN",
+  "city": "Banten",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBWX",
+  "city": "Banyuwangi",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBTH",
+  "city": "Batam",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBTU",
+  "city": "Batu",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBTW",
+  "city": "Batulicin",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBTE",
+  "city": "Baturaden",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBTR",
+  "city": "Batusangkar",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBUW",
+  "city": "Baubau",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBKI",
+  "city": "Bekasi",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBLG",
+  "city": "Belitung",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBKS",
+  "city": "Bengkulu",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBRI",
+  "city": "Berastagi",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBEJ",
+  "city": "Berau",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBIK",
+  "city": "Biak",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBTA",
+  "city": "Bintan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBTT",
+  "city": "Blitar",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBGR",
+  "city": "Bogor",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBJO",
+  "city": "Bojonegoro",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBDS",
+  "city": "Bondowoso",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBXT",
+  "city": "Bontang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBMO",
+  "city": "Bromo",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBKG",
+  "city": "Bukit Lawang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDBKN",
+  "city": "Bukittinggi",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDCDA",
+  "city": "Candidasa",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDCTA",
+  "city": "Central Java",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDCPF",
+  "city": "Cepu",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDCAR",
+  "city": "Cianjur",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDCKG",
+  "city": "Cikarang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDCXP",
+  "city": "Cilacap",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDCLN",
+  "city": "Cilegon",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDCPS",
+  "city": "Cipanas",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDCBN",
+  "city": "Cirebon",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDCSA",
+  "city": "Cisarua",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDDPK",
+  "city": "Depok",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDDPU",
+  "city": "Dompu",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDDUM",
+  "city": "Dumai",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDEJA",
+  "city": "East Java",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDFRD",
+  "city": "Flores, ID",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDGRT",
+  "city": "Garut",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDGLR",
+  "city": "Gili Air",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDGLN",
+  "city": "Gili Trawangan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDGTO",
+  "city": "Gorontalo",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDGSK",
+  "city": "Gresik",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDIDU",
+  "city": "Indramayu",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDIRA",
+  "city": "Irian Jaya",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDCGK",
+  "city": "Jakarta",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDDJB",
+  "city": "Jambi",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDJVA",
+  "city": "Java",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDDJJ",
+  "city": "Jayapura",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDJBB",
+  "city": "Jember",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDJPA",
+  "city": "Jepara",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDJBN",
+  "city": "Jimbaran",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDJBG",
+  "city": "Jombang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDKLN",
+  "city": "Kalimantan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDKRG",
+  "city": "Karawang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDKWB",
+  "city": "Karimunjawa",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDKBN",
+  "city": "Kebumen",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDKDR",
+  "city": "Kediri",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDKDI",
+  "city": "Kendari",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDKTG",
+  "city": "Ketapang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDKTN",
+  "city": "Klaten",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPUM",
+  "city": "Kolaka",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDKDS",
+  "city": "Kudus",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDKNN",
+  "city": "Kuningan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDKOE",
+  "city": "Kupang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDKTE",
+  "city": "Kuta Cane",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDKTI",
+  "city": "Kutai",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDLBJ",
+  "city": "Labuan Bajo",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDLBU",
+  "city": "Labuhanbatu",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPXA",
+  "city": "Lahat",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDLMN",
+  "city": "Lamongan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDLPG",
+  "city": "Lampung",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDLGN",
+  "city": "Legian",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDLBD",
+  "city": "Lembongan Island",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDLOP",
+  "city": "Lombok",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDLBA",
+  "city": "Lubuk Linggau",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDLMG",
+  "city": "Lumajang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDLUW",
+  "city": "Luwuk",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDMDN",
+  "city": "Madiun",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDMDA",
+  "city": "Madura",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDMGG",
+  "city": "Magelang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDUPG",
+  "city": "Makassar",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDMLG",
+  "city": "Malang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDMLU",
+  "city": "Maluku",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDMJU",
+  "city": "Mamuju",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDMDC",
+  "city": "Manado",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDMKW",
+  "city": "Manokwari",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDMOF",
+  "city": "Maumere",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDKNO",
+  "city": "Medan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDMJO",
+  "city": "Mojokerto",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDMYD",
+  "city": "Moyo Island",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDMRM",
+  "city": "Muara Enim",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDNSA",
+  "city": "Nusa Dua",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPCN",
+  "city": "Pacitan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPDG",
+  "city": "Padang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDAEG",
+  "city": "Padang Sidempuan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPKY",
+  "city": "Palangkaraya",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPLM",
+  "city": "Palembang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPLW",
+  "city": "Palu",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPMN",
+  "city": "Pamekasan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPNG",
+  "city": "Panakkukang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPDN",
+  "city": "Pandaan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPGN",
+  "city": "Pangandaran",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPKN",
+  "city": "Pangkalan Bun",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPPA",
+  "city": "Papua",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSIW",
+  "city": "Parapat",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPRE",
+  "city": "Pare-pare",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPSN",
+  "city": "Pasuruan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPKA",
+  "city": "Pekalongan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPKU",
+  "city": "Pekanbaru",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPLU",
+  "city": "Pelabuhan Ratu",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPMG",
+  "city": "Pemalang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPMR",
+  "city": "Pematang Siantar",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPGA",
+  "city": "Pengandaran",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPNO",
+  "city": "Ponorogo",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPNK",
+  "city": "Pontianak",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPBO",
+  "city": "Probolinggo",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPLR",
+  "city": "Pulau Samosir",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPCK",
+  "city": "Puncak",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPWA",
+  "city": "Purwakarta",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPWN",
+  "city": "Purwodadi Grobogan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPWL",
+  "city": "Purwokerto",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDRBG",
+  "city": "Rembang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDRIU",
+  "city": "Riau",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSLA",
+  "city": "Salatiga",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSRI",
+  "city": "Samarinda",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSMR",
+  "city": "Samosir",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSMQ",
+  "city": "Sampit",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSNR",
+  "city": "Sanur",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSRN",
+  "city": "Sarangan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSRG",
+  "city": "Semarang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSMK",
+  "city": "Seminyak",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSRA",
+  "city": "Serang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSDO",
+  "city": "Sidoarjo",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSGA",
+  "city": "Singaraja",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSKG",
+  "city": "Singkawang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSTO",
+  "city": "Situbondo",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSOC",
+  "city": "Solo City",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSOQ",
+  "city": "Sorong",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSRE",
+  "city": "Sragen",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSBG",
+  "city": "Subang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSKI",
+  "city": "Sukabumi",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSLI",
+  "city": "Sulawesi",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSMA",
+  "city": "Sumatra",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSBA",
+  "city": "Sumba",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSWQ",
+  "city": "Sumbawa",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSBR",
+  "city": "Sumbawa Besar",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSUP",
+  "city": "Sumenep",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSGT",
+  "city": "Sungailiat",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDSUB",
+  "city": "Surabaya",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTBN",
+  "city": "Tabanan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTLG",
+  "city": "Taliwang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTTR",
+  "city": "Tana Toraja",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTGG",
+  "city": "Tangerang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTJB",
+  "city": "Tanjung Balai Karimun",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTJA",
+  "city": "Tanjung Benoa",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTJG",
+  "city": "Tanjung Lesung",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTNJ",
+  "city": "Tanjung Pinang",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTJS",
+  "city": "Tanjung Selor",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTRK",
+  "city": "Tarakan",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTSY",
+  "city": "Tasikmalaya",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTWU",
+  "city": "Tawangmangu",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTGL",
+  "city": "Tegal",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTGN",
+  "city": "Tenggarong",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTTE",
+  "city": "Ternate, Indonesia",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTIM",
+  "city": "Timika",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTRA",
+  "city": "Toraja",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTTS",
+  "city": "Tretes",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTBA",
+  "city": "Tuban",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDTLN",
+  "city": "Tulungagung",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDUJG",
+  "city": "Ujung Pandang (Makassar)",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDWGP",
+  "city": "Waingapu",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDWMX",
+  "city": "Wamena",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDWTY",
+  "city": "Waterfront City",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDWJA",
+  "city": "West Java",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDWSA",
+  "city": "West Sumatra",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDWNO",
+  "city": "Wonosobo",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDJOG",
+  "city": "Yogyakarta",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPTI",
+  "city": "pati",
+  "country": "Indonesia"
+}, {
+  "code": "WSASIDPBH",
+  "city": "prabumulih",
+  "country": "Indonesia"
+}]

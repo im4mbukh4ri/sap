@@ -1,0 +1,176 @@
+@charset "utf-8";
+
+/*===============================================================================================================   
+
+Author      : Muhammad Febriansyah
+
+Built       : September 2016
+
+=============================================================================================================== */
+
+
+
+@media all and (max-width:767px){
+
+    
+
+    /* header
+
+    ================================================================================================================= */
+	
+    /* middle homepage
+
+    ================================================================================================================= */
+	
+    /* middle contentpage
+
+    ================================================================================================================= */
+    #home-form{
+		background: url(http://dev.infiniqa.com/assets/images/content/bg-home.jpg);
+    }
+	.breadcrumb-step li,#step-booking-kereta .breadcrumb-step li{
+		width: 100%;
+	}
+	.breadcrumb-step li a:before,.breadcrumb-step li.active a:after, .breadcrumb-step li.done a:after,.breadcrumb-step li a:after{
+		content: none;
+	}
+	.breadcrumb-step li:first-child a{
+		padding-left: 0;
+	}
+	.breadcrumb-step li a{
+		padding-left: 0;
+	}
+	.row-resultnya{
+		text-align: center;
+	}
+	.item-result{
+		height: auto !important;
+	}
+	.label-circle,.col-md-12 .label-circle{
+		width: 100%;
+		height: auto;
+		min-height: 60px;
+	}
+	.circle-select{
+		top: 25%;
+	}
+	.label-rincian,.col-md-12 .label-rincian,.action-rincian,.col-md-12 .label-detail-harga{
+		width: 100%;
+	}
+	.action-rincian{
+		text-align: center;
+		padding:10px;
+	}
+	.label-detail-harga{
+		width: 100%;
+		padding:15px;
+		text-align: center;	
+		border-left: 0;
+	}
+	.items-detail{
+		padding: 20px 10px;
+	}
+	.FlightSegment.HiddenTransitSegment{
+		margin-top: -48px;
+	}
+	.inline-blue{
+		border-right: 1px solid #0d5585;
+	}
+	.list-seat, .grey-box{
+		padding: 15px 10px
+	}
+	.saldo-head{
+		width: 100%;
+	}
+	.list-home-footer{
+		margin-bottom: 20px;
+	}
+	.thumb-profile{
+		margin-bottom: 20px;
+	}
+	.left-form {
+	    border-right:none;
+	    padding-right:0px;
+	}
+	.big-padding, .detail-side-row {
+	    padding-left: 10px;
+	    padding-right: 10px;
+	    padding-top: 15px;
+	}
+	.detail-bottom .dl-horizontal .feature, .total-side-rows .dl-horizontal .feature,.detail-bottom .dl-horizontal .value, .total-side-rows .dl-horizontal .value{
+		width: 49%;
+		display: inline-block;
+		margin-bottom: 5px;
+	}
+	.row-orange .dl-horizontal .feature, .row-blue .dl-horizontal .feature,.row-orange .dl-horizontal .value, .row-blue .dl-horizontal .value{
+		font-size: 14px;
+	}
+	#box-search2 .col-md-4 {
+		height: auto !important;
+	}
+	.big-thumb{
+		width: 100%;
+		margin: 10px 0;
+	}
+	.big-thumb img{
+		width: 100%;
+	}
+	.detail-thumb{
+		width: 100%;
+		margin: 10px 0;
+	}
+	.fac-box{
+		min-height: auto;
+	}
+	.total-orange{
+		width: 100%;
+	}
+	.caution-box img, .caution-box .warning-text{
+		margin: 10px 0;
+	}
+	.row-rincian-kereta:before{
+		width: 10px;
+	}
+	.row-rincian-kereta .row-jadwal .waktu{
+		display: block;
+		border-right: none;
+	}
+	.row-rincian-kereta .row-jadwal .total-waktu{
+		border-right: none;
+	}
+	.tabs-menu li{
+		margin-bottom: 10px;
+	}
+	.tabs-menu-mobile{
+		display: block;
+	}
+	#menu-tabs-desktop{
+		display: none;
+	}
+	.head-tab .saldo-tabs,
+	.head-tab .tabs-home{
+		float: none;
+		display: block;
+	}
+	.head-tab .saldo-tabs{
+		text-align: center;
+	}
+	.saldo-head .saldo{
+		display: inline-block;
+	}
+	.tabs-plus{
+		width: 200px;
+		border-radius: 5px;
+		margin-bottom: 15px;
+	}
+	.tabs-plus span{
+		font-size: 20px;
+	}
+    /* footer
+
+    ================================================================================================================= */
+	
+	
+	
+	
+}

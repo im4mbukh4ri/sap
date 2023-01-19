@@ -1,0 +1,151 @@
+ @charset "utf-8";
+
+/*===============================================================================================================   
+
+Company     : PT Web Architect Technology - webarq.com 
+
+Author      : Muhammad Febriansyah
+
+Built       : Maret 2016
+
+=============================================================================================================== */
+
+
+
+@media all and (max-width:1023px){
+
+  
+
+    
+
+    /* header
+
+    ================================================================================================================= */
+    .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus.
+    .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+        background-color: none;
+    }
+    .navbar-default .navbar-toggle {
+        border:2px solid #fff;
+    }
+    .navbar-default .navbar-toggle .icon-bar{
+        background-color: #fff;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-header {
+        float: none;
+    }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin-top: 7.5px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in{
+        display:block !important;
+    }
+    #mainheader #main-menu > li{
+        border-right:none;
+    }
+    .navbar-default .navbar-collapse{
+        border: none;
+    }
+    .navbar-nav .open .dropdown-menu {
+        position: static;
+        float: none;
+        width: auto;
+        margin-top: 0;
+        background-color: transparent;
+        border: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a{
+        color: #fff;
+    }
+    #menu-profile li{
+        float: right;
+    }
+    /* middle homepage
+
+    ================================================================================================================= */
+    #home-form{
+        background: url(http://dev.infiniqa.com/assets/images/content/bg-home.jpg);
+    }
+    
+    #middle-content{
+        padding: 88px 0 0;
+    }
+	.result-row .right-result{
+        border-left:1px solid #ccc;
+    }
+	.main-table.fixed{
+        position: relative;
+        top: 0;
+    }
+    .search-row>.col-md-4{
+        border-right: none;
+    }
+    .inline-blue p{
+        padding-left: 0;
+        margin-top: 10px;
+    }
+    .sidebar,.left-section,.acc-menu{
+        margin-bottom: 20px;
+    }
+    .row-rincian-kereta .row-jadwal{
+        display: block;
+    }
+    .action-rincian{
+        width: 19%;
+        padding: 60px 0px 20px 20px
+    }
+    .col-md-12 .label-detail-harga{
+        width: 21%;
+    }
+    .col-md-12 .label-rincian{
+        width: 45%;
+    }
+    .total-orange{
+        width: 50%;
+    }
+    /* popup
+
+    ================================================================================================================= */
+
+    
+    /* middle contentpage
+
+    ================================================================================================================= */
+	
+	
+    /* footer
+
+    ================================================================================================================= */
+    
+}
+

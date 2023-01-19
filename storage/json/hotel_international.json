@@ -1,0 +1,381 @@
+[{
+  "code": "WSASTHANN",
+  "city": "Amnat Charoen",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHAYA",
+  "city": "Ayutthaya",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHBKK",
+  "city": "Bangkok",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHBKN",
+  "city": "Bueng Kan",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHBFV",
+  "city": "Buriram",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHCAI",
+  "city": "Cha-am, Phetchaburi",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHPMM",
+  "city": "Chachoengsao",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHCNT",
+  "city": "Chai Nat",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHCYM",
+  "city": "Chaiyaphum",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHCTI",
+  "city": "Chanthaburi",
+  "country": "Thailand"
+}, {
+  "code": "WSASHKCCI",
+  "city": "Cheung Chau Island",
+  "country": "Hong Kong"
+}, {
+  "code": "WSASTHCNX",
+  "city": "Chiang Mai",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHCEI",
+  "city": "Chiang Rai",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHQHI",
+  "city": "Chon Buri",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHCJM",
+  "city": "Chumphon",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHHDY",
+  "city": "Hat Yai, Songkhla",
+  "country": "Thailand"
+}, {
+  "code": "WSASHKHKG",
+  "city": "Hong Kong City",
+  "country": "Hong Kong"
+}, {
+  "code": "WSASTHHHN",
+  "city": "Hua Hin, Prachuap Khiri Khan",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKLN",
+  "city": "Kalasin",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKPT",
+  "city": "Kamphaeng Phet",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKCI",
+  "city": "Kanchanaburi",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKLA",
+  "city": "Khao Lak, Phangnga",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKYA",
+  "city": "Khao Yai, Nakhonratchasima",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKKC",
+  "city": "Khon Kaen",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKCT",
+  "city": "Ko Chang, Trat",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKHG",
+  "city": "Ko Hai, Trang",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKKT",
+  "city": "Ko Kood, Trat",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKLI",
+  "city": "Ko Lanta, Krabi",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKLU",
+  "city": "Ko Lipe, Satun",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKPI",
+  "city": "Ko Pha-ngan, Surat Thani",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKPB",
+  "city": "Ko Phi Phi, Krabi",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKSG",
+  "city": "Ko Samet, Rayong",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHUSM",
+  "city": "Ko Samui, Surat Thani",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKTI",
+  "city": "Ko Tao, Surat Thani",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKBV",
+  "city": "Krabi",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHLPT",
+  "city": "Lampang",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHLPN",
+  "city": "Lamphun",
+  "country": "Thailand"
+}, {
+  "code": "WSASHKLTD",
+  "city": "Lantau Island",
+  "country": "Hong Kong"
+}, {
+  "code": "WSASTHLOE",
+  "city": "Loei",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKKM",
+  "city": "Lop Buri",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHHGN",
+  "city": "Mae Hong Son",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHMHM",
+  "city": "Maha Sarakham",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHMDN",
+  "city": "Mukdahan",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHNKK",
+  "city": "Nakhon Nayok",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKDT",
+  "city": "Nakhon Pathom",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHKOP",
+  "city": "Nakhon Phanom",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHNAK",
+  "city": "Nakhon Ratchasima",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHTKH",
+  "city": "Nakhon Sawan",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHNST",
+  "city": "Nakhon Si Thammarat",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHNNT",
+  "city": "Nan",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHNAW",
+  "city": "Narathiwat",
+  "country": "Thailand"
+}, {
+  "code": "WSASHKNTS",
+  "city": "New Territories",
+  "country": "Hong Kong"
+}, {
+  "code": "WSASTHNKI",
+  "city": "Nong Khai",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHNTI",
+  "city": "Nonthaburi",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHPTI",
+  "city": "Pathum Thani",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHPTR",
+  "city": "Pattaya, Chon Buri",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHPNA",
+  "city": "Phangnga",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHPTG",
+  "city": "Phatthalung",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHPYO",
+  "city": "Phayao",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHPHY",
+  "city": "Phetchabun",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHPCI",
+  "city": "Phetchaburi",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHPCT",
+  "city": "Phichit",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHPHS",
+  "city": "Phitsanulok",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHPRH",
+  "city": "Phrae",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHHKT",
+  "city": "Phuket",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHPCR",
+  "city": "Prachin Buri",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHHHQ",
+  "city": "Prachuap Khiri Khan",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHPBN",
+  "city": "Pran Buri, Prachuap Khiri Khan",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHUNN",
+  "city": "Ranong",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHRCI",
+  "city": "Ratchaburi",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHUTP",
+  "city": "Rayong",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHROI",
+  "city": "Roi Et",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHSKO",
+  "city": "Sa Kaeo",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHSNO",
+  "city": "Sakon Nakhon",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHSMN",
+  "city": "Samut Prakan",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHSMO",
+  "city": "Samut Sakhon",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHSMM",
+  "city": "Samut Songkhram",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHSRI",
+  "city": "Saraburi",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHSTN",
+  "city": "Satun",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHSST",
+  "city": "Si Sa Ket",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHSBI",
+  "city": "Sing Buri",
+  "country": "Thailand"
+}, {
+  "code": "WSASSGSIN",
+  "city": "Singapore City",
+  "country": "Singapore"
+}, {
+  "code": "WSASTHSGZ",
+  "city": "Songkhla",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHTHS",
+  "city": "Sukhothai",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHSPI",
+  "city": "Suphan Buri",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHURT",
+  "city": "Surat Thani",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHPXR",
+  "city": "Surin",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHTKT",
+  "city": "Tak",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHTST",
+  "city": "Trang",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHTDX",
+  "city": "Trat",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHUBP",
+  "city": "Ubon Ratchathani",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHUTH",
+  "city": "Udon Thani",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHUTI",
+  "city": "Uthai Thani",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHUTR",
+  "city": "Uttaradit",
+  "country": "Thailand"
+}, {
+  "code": "WSASTHYSN",
+  "city": "Yasothon",
+  "country": "Thailand"
+}]
